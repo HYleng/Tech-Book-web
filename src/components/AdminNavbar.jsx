@@ -2,7 +2,7 @@
 import { Navbar, Nav, Button } from "react-bootstrap";
 import { useNavigate } from "react-router";
 import { useUserAuth } from "../context/userAuthContext";
-import "../styles/User-Navbar.css"; // You can keep your custom styles
+import "../styles/User-Navbar.css";
 import { Link } from "react-router-dom";
 import Logo from "../assets/new-logo.png";
 
